@@ -8,7 +8,7 @@ I'm a programmer working on [Tao.app](https://tao.app/), where I sometimes write
 
 **Hobby Stuff:**
  - [Die Dapper Klein Pikkewyn](https://github.com/chrischansonichu/die-dapper-klein-pikkewyn): iOS JRPG about a penguin saving South Africa, written in C.
- - [SonyAlphaPy](https://github.com/thewhaleking/sonyalphapy): Python interface for Sony Alpha cameras.
+ - [SonyAlphaPy](https://github.com/thewhaleking/sonyalphapy): Python interface for Sony α cameras.
 
 **Previously:**
  - [Bittensor](https://github.com/opentensor/bittensor): SDK for Bittensor.
