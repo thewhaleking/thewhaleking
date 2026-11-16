@@ -5,6 +5,7 @@ I'm a programmer working on [Tao.app](https://tao.app/), where I sometimes write
 **Work:**
  - [AIO-Substrate-Interface](https://github.com/latent-to/aio-substrate-interface): Fast AsyncIO lib for interfacing with (Bittensor) substrate nodes.
  - [Cyscale](https://github.com/latent-to/cyscale): Cython-enhanced SCALE codec, for encoding/decoding SCALE with Python.
+ - [Wortel](https://github.com/latent-to/wortel): Substrate DB-reader that sits alongside the node.
 
 **Hobby Stuff:**
  - [Die Dapper Klein Pikkewyn](https://github.com/chrischansonichu/die-dapper-klein-pikkewyn): iOS JRPG about a penguin saving South Africa, written in C.
